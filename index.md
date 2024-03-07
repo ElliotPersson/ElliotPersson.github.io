@@ -1,3 +1,6 @@
-# Hello world
+---
+title: Hello world
+layout: default
+---
 
-Hej! Det här är min personliga sida på github.
+Hello world
